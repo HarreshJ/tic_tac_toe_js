@@ -45,6 +45,59 @@ body {
     font-family: "Poppins";
 }
 
+#topMiddle {
+  background-color: red;
+}
+
+#topRight {
+  background-color: blue;
+}
+
 .container {
     margin-left: 40px;
+}
+
+.topLeft {
+  font-size: 100px;
+  text-align: center;
+}
+
+.topMiddle {
+  font-size: 75px;
+  text-align: center;
+}
+
+.topRight {
+  font-size: 75px;
+  text-align: center;
+}
+
+.middleLeft {
+  font-size: 75px;
+  text-align: center;
+}
+
+.middleMiddle {
+  font-size: 75px;
+  text-align: center;
+}
+
+.middleRight {
+  font-size: 75px;
+  text-align: center;
+}
+
+.bottomLeft {
+  font-size: 75px;
+  text-align: center;
+}
+
+.bottomMiddle {
+  font-size: 75px;
+  text-align: center;
+}
+
+.bottomRight {
+  font-size: 75px;
+  text-align: center;
 }
